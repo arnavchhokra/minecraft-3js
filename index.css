@@ -37,6 +37,9 @@ body {
   font-size: 25px;
   color: grey;
 }
+#socials{
+  margin-bottom: 20px;
+}
 
 #blocklink:hover {
   color: white;
